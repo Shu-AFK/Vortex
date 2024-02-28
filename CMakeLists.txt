@@ -21,7 +21,7 @@ set(PROJECT_SOURCES
         src/main.cpp
         src/Vortex.cpp
         src/Vortex.h
-        ui/vortex.ui
+        vortex.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
